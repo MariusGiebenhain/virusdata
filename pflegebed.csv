@@ -19,11 +19,9 @@
 3102,"Salzgitter, Kreisfreie Stadt",5632,982,1415,3235
 3103,"Wolfsburg, Kreisfreie Stadt",5405,849,1229,3326
 3151,"Gifhorn, Landkreis",8573,1839,1754,4980
-3152,"Göttingen, Landkreis",,,,
 3153,"Goslar, Landkreis",9174,2249,2852,4072
 3154,"Helmstedt, Landkreis",4546,841,1620,2085
 3155,"Northeim, Landkreis",8903,2629,2195,4074
-3156,"Osterode am Harz, Landkreis",,,,
 3157,"Peine, Landkreis",6736,1592,1832,3311
 3158,"Wolfenbüttel, Landkreis",5674,1338,1523,2813
 3159,"Göttingen, Landkreis",16930,4119,4831,7975
@@ -80,13 +78,11 @@
 5162,"Rhein-Kreis Neuss",19208,3203,3867,12138
 5166,"Viersen, Kreis",14831,2931,2416,9483
 5170,"Wesel, Kreis",25163,5711,4464,14983
-5313,"Aachen, Stadt (alt)",,,,
 5314,"Bonn, Kreisfreie Stadt",11425,2890,2912,5623
 5315,"Köln, Kreisfreie Stadt",36556,7981,7551,21023
 5316,"Leverkusen, Kreisfreie Stadt",6768,1327,1308,4132
 5334,"Städteregion Aachen (einschl. Stadt Aachen)",26484,5514,5428,15537
 5334002,"Aachen, krfr. Stadt",9977,2328,2252,5393
-5354,"Aachen, Kreis",,,,
 5358,"Düren, Kreis",13522,2376,2736,8406
 5362,"Rhein-Erft-Kreis",18385,3993,3582,10810
 5366,"Euskirchen, Kreis",10859,2460,2398,6001
@@ -361,59 +357,14 @@
 12071,"Spree-Neiße, Landkreis",5285,1625,1096,2560
 12072,"Teltow-Fläming, Landkreis",7661,2129,1672,3857
 12073,"Uckermark, Landkreis",9823,3254,1111,5458
-13001,"Kreisfreie Stadt Greifswald, Hansestadt",,,,
-13002,"Kreisfreie Stadt Neubrandenburg, Stadt",,,,
 13003,"Kreisfreie Stadt Rostock, Hansestadt",9333,,2364,4840
 13004,"Kreisfreie Stadt Schwerin, Landeshauptstadt",5313,,1476,2466
-13005,"Kreisfreie Stadt Stralsund, Hansestadt",,,,
-13006,"Kreisfreie Stadt Wismar, Hansestadt",,,,
-13051,"Landkreis Bad Doberan",,,,
-13052,"Landkreis Demmin",,,,
-13053,"Landkreis Güstrow",,,,
-13054,"Landkreis Ludwigslust",,,,
-13055,"Landkreis Mecklenburg-Strelitz",,,,
-13056,"Landkreis Müritz",,,,
-13057,"Landkreis Nordvorpommern",,,,
-13058,"Landkreis Nordwestmecklenburg",,,,
-13059,"Landkreis Ostvorpommern",,,,
-13060,"Landkreis Parchim",,,,
-13061,"Landkreis Rügen",,,,
-13062,"Landkreis Uecker-Randow",,,,
 13071,"Landkreis Mecklenburgische Seenplatte",15239,4569,2976,7684
 13072,"Landkreis Rostock",12014,3413,2548,6039
 13073,"Landkreis Vorpommern-Rügen",15699,4660,2655,8375
 13074,"Landkreis Nordwestmecklenburg",8036,1961,1792,4277
 13075,"Landkreis Vorpommern-Greifswald",14161,4969,2952,6236
 13076,"Landkreis Ludwigslust-Parchim",11234,3269,2397,5550
-14161,"Chemnitz, Kreisfreie Stadt",,,,
-14166,"Plauen, Kreisfreie Stadt",,,,
-14167,"Zwickau, Kreisfreie Stadt",,,,
-14171,"Annaberg, Landkreis",,,,
-14173,"Chemnitzer Land, Landkreis",,,,
-14177,"Freiberg, Landkreis",,,,
-14178,"Vogtlandkreis",,,,
-14181,"Mittlerer Erzgebirgskreis",,,,
-14182,"Mittweida, Landkreis",,,,
-14188,"Stollberg, Landkreis",,,,
-14191,"Aue-Schwarzenberg, Landkreis",,,,
-14193,"Zwickauer Land, Landkreis",,,,
-14262,"Dresden, Kreisfreie Stadt",,,,
-14263,"Görlitz, Kreisfreie Stadt",,,,
-14264,"Hoyerswerda, Kreisfreie Stadt",,,,
-14272,"Bautzen, Landkreis",,,,
-14280,"Meißen, Landkreis",,,,
-14284,"Niederschlesischer Oberlausitzkreis",,,,
-14285,"Riesa-Großenhain, Landkreis",,,,
-14286,"Löbau-Zittau, Landkreis",,,,
-14287,"Sächsische Schweiz, Landkreis",,,,
-14290,"Weißeritzkreis",,,,
-14292,"Kamenz, Landkreis",,,,
-14365,"Leipzig, Kreisfreie Stadt",,,,
-14374,"Delitzsch, Landkreis",,,,
-14375,"Döbeln, Landkreis",,,,
-14379,"Leipziger Land, Landkreis",,,,
-14383,"Muldentalkreis",,,,
-14389,"Torgau-Oschatz, Landkreis",,,,
 14511,"Chemnitz, Stadt",12775,3687,3321,5766
 14521,"Erzgebirgskreis",20208,6877,4475,8850
 14522,"Mittelsachsen, Landkreis",15498,4560,3955,6978
@@ -441,30 +392,6 @@
 15089,"Salzlandkreis",9359,2600,2940,3807
 15090,"Stendal, Landkreis",5366,1510,1479,2372
 15091,"Wittenberg, Landkreis",6825,2105,1422,3290
-15101,"Dessau, Kreisfreie Stadt",,,,
-15151,"Anhalt-Zerbst, Kreis",,,,
-15153,"Bernburg, Kreis",,,,
-15154,"Bitterfeld, Kreis",,,,
-15159,"Köthen, Kreis",,,,
-15171,"Wittenberg, Kreis",,,,
-15202,"Halle (Saale), Kreisfreie Stadt",,,,
-15256,"Burgenlandkreis",,,,
-15260,"Mansfelder Land, Kreis",,,,
-15261,"Merseburg-Querfurt, Kreis",,,,
-15265,"Saalkreis",,,,
-15266,"Sangerhausen, Kreis",,,,
-15268,"Weißenfels, Kreis",,,,
-15303,"Magdeburg, Kreisfreie Stadt",,,,
-15352,"Aschersleben-Staßfurt, Kreis",,,,
-15355,"Bördekreis",,,,
-15357,"Halberstadt, Kreis",,,,
-15358,"Jerichower Land, Kreis",,,,
-15362,"Ohrekreis",,,,
-15363,"Stendal, Kreis",,,,
-15364,"Quedlinburg, Kreis",,,,
-15367,"Schönebeck, Kreis",,,,
-15369,"Wernigerode, Kreis",,,,
-15370,"Altmarkkreis Salzwedel, Kreis",,,,
 16051,"Erfurt, krsfr. Stadt",9998,2488,2455,5054
 16052,"Gera, krsfr. Stadt",5292,1748,1256,2288
 16053,"Jena, krsfr. Stadt",4159,1227,1175,1756
